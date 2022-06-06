@@ -1,1 +1,1 @@
-# JS-day-1
+# JS-day-1-task-3
